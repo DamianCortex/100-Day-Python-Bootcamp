@@ -1,3 +1,3 @@
-#Python Bootcamp Projects
+100 Day Python Bootcamp
 
-These are some of the Python Bootcamp Assignments I have done.
+This is a repos on some of the projects I did in the 100 Day Python Bootcamp.
